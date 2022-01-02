@@ -1,0 +1,31 @@
+﻿  Building 'mysample1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\mysample1.inf
+  Stamping [Version] section with DriverVer=01/03/2022,4.27.20.368
+D:\Driver\MiniFilter\mysample\mysample1\mysample1.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+D:\Driver\MiniFilter\mysample\mysample1\mysample1.inf(5-5): warning 1324: [Version] section should specify PnpLockdown=1.
+D:\Driver\MiniFilter\mysample\mysample1\mysample1.inf(21-21): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+D:\Driver\MiniFilter\mysample\mysample1\mysample1.inf(28-28): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+D:\Driver\MiniFilter\mysample\mysample1\mysample1.inf(54-54): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  callbacks.c
+  main.c
+  miniflt.c
+  registration.c
+  코드를 생성하고 있습니다...
+  mysample1.vcxproj -> D:\Driver\MiniFilter\mysample\mysample1\x64\Debug\mysample1.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Driver\MiniFilter\mysample\mysample1\x64\Debug\mysample1.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Driver\MiniFilter\mysample\mysample1\x64\Debug\mysample1\mysample1.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Driver\MiniFilter\mysample\mysample1\x64\Debug\mysample1\mysample1.cat
+  

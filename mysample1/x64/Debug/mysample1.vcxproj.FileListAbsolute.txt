@@ -1,0 +1,2 @@
+D:\Driver\MiniFilter\mysample\mysample1\x64\Debug\mysample1.sys
+D:\Driver\MiniFilter\mysample\mysample1\x64\Debug\mysample1.pdb
